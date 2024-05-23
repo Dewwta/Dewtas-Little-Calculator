@@ -1,0 +1,14 @@
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\bin\Debug\net8.0\PracticeApp.exe
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\bin\Debug\net8.0\PracticeApp.deps.json
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\bin\Debug\net8.0\PracticeApp.runtimeconfig.json
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\bin\Debug\net8.0\PracticeApp.dll
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\bin\Debug\net8.0\PracticeApp.pdb
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.AssemblyInfoInputs.cache
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.AssemblyInfo.cs
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.dll
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\refint\PracticeApp.dll
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.pdb
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.genruntimeconfig.cache
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\ref\PracticeApp.dll
