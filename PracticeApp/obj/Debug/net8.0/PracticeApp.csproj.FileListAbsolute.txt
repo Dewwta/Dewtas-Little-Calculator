@@ -12,3 +12,4 @@ C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\refint\Pra
 C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.pdb
 C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.genruntimeconfig.cache
 C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\ref\PracticeApp.dll
+C:\Users\dewta\RiderProjects\PracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.sourcelink.json
